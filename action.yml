@@ -1,5 +1,5 @@
 name: 'Hello world custom action'
-description: `A custom action that magically prints 'Hello world'`
+description: 'A custom action that magically prints Hello World'
 runs:
   using: 'docker'
   image: 'Dockerfile'
