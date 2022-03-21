@@ -1,0 +1,8 @@
+name: 'Hello world custom action'
+description: `A custom action that magically prints 'Hello world'`
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'globe'
+  color: 'green'
